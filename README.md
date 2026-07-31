@@ -20,7 +20,7 @@ cd src/dashboard
 npm install
 npm run dev
 ```
-Abrir http://localhost:3000
+Abrir https://proyecto-finanzas-holcim-5o89cerjd.vercel.app/
 
 ## Reproducibilidad
 Los datos están en `data/raw` y `data/processed`. Los cálculos principales están documentados en `src/analysis/calculos.py` y en el Excel `Modelo_Financiero_Holcim.xlsx`.
