@@ -1,0 +1,4 @@
+Escenario,VAN,TIR,B/C,Payback simple,Payback descontado,Decisión
+Optimista,3491393.17,0.18545,1.604,5.04,7.07,Aceptar
+Base,1022526.6387250042,0.13291296736475922,1.1681787234745071,6.378151261704309,11.681333645600022,Aceptar condicionadamente
+Pesimista,-1982419.86,0.06228,0.711,10.45,,Rechazar / reformular

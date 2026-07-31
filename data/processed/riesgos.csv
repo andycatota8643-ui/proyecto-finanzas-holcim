@@ -1,0 +1,9 @@
+Riesgo,Tipo,Probabilidad,Impacto,Nivel,Indicador,Mitigación
+CAPEX superior a la estimación,Financiero,3,4,12,Cotización EPC,Tres cotizaciones y contrato con precio máximo
+Menor generación solar,Técnico,3,4,12,MWh reales vs P50,"Estudio de recurso, garantías y monitoreo"
+Autoconsumo inferior al 95%,Operativo,2,4,8,% autoconsumido,Ajustar tamaño y estrategia de batería
+Ahorro por apagones sobreestimado,Económico,4,5,20,Horas parada y margen perdido,Auditar registros de producción y costos
+Tasa de crédito mayor,Financiero,3,3,9,Tasa efectiva,Negociar tasa fija y comparar bancos
+Reposición de batería más costosa,Técnico,3,3,9,Costo por MWh,Garantía y fondo de reposición
+Cambios regulatorios eléctricos,Regulatorio,2,4,8,Normativa,Revisión legal y contractual anual
+Retrasos de permisos/interconexión,Operativo,2,3,6,Hitos del cronograma,Gestión temprana de permisos
